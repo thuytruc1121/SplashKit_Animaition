@@ -1,0 +1,14 @@
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/bin/Debug/net8.0/SplashKit_Animation
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/bin/Debug/net8.0/SplashKit_Animation.deps.json
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/bin/Debug/net8.0/SplashKit_Animation.runtimeconfig.json
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/bin/Debug/net8.0/SplashKit_Animation.dll
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/bin/Debug/net8.0/SplashKit_Animation.pdb
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.AssemblyInfoInputs.cache
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.AssemblyInfo.cs
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.csproj.CoreCompileInputs.cache
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.dll
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/refint/SplashKit_Animation.dll
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.pdb
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/SplashKit_Animation.genruntimeconfig.cache
+/Users/trucpham/Desktop/Deakin Term 1/SIT771/SplashKit_Animation/obj/Debug/net8.0/ref/SplashKit_Animation.dll
